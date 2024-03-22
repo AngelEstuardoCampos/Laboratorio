@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1710541803 source:c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1710540164 c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\cliente.h
+	<string>
+
+1710540592 source:c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1710540151 c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\fecha.h
+
+1710541599 source:c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+	"Prestamo.h"
+
+1710540139 c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\pago.h
+	"Fecha.h"
+
+1710541931 c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\prestamo.h
+	<string.h>
+	"Cliente.h"
+	"Pago.h"
+
+1710542942 source:c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\pago.cpp
+	"Pago.h"
+	<iostream>
+
+1710542954 source:c:\users\gerar\desktop\laboratorio - programacion ii\evaluacion1\prestamo.cpp
+	"Prestamo.h"
+	<iostream>
+
+1710541804 source:d:\evaluacion1 - labprogra ii\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1710540166 d:\evaluacion1 - labprogra ii\cliente.h
+	<string>
+
+1710540594 source:d:\evaluacion1 - labprogra ii\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1710540152 d:\evaluacion1 - labprogra ii\fecha.h
+
+1710542944 source:d:\evaluacion1 - labprogra ii\pago.cpp
+	"Pago.h"
+	<iostream>
+
+1710540140 d:\evaluacion1 - labprogra ii\pago.h
+	"Fecha.h"
+
+1710542956 source:d:\evaluacion1 - labprogra ii\prestamo.cpp
+	"Prestamo.h"
+	<iostream>
+
+1710541932 d:\evaluacion1 - labprogra ii\prestamo.h
+	<string.h>
+	"Cliente.h"
+	"Pago.h"
+
+1711052350 source:d:\evaluacion1 - labprogra ii\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+	"Prestamo.h"
+
+1710541804 source:d:\evaluacion_labprogra ii\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1710540166 d:\evaluacion_labprogra ii\cliente.h
+	<string>
+
+1710540594 source:d:\evaluacion_labprogra ii\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1710540152 d:\evaluacion_labprogra ii\fecha.h
+
+1710542944 source:d:\evaluacion_labprogra ii\pago.cpp
+	"Pago.h"
+	<iostream>
+
+1710540140 d:\evaluacion_labprogra ii\pago.h
+	"Fecha.h"
+
+1710542956 source:d:\evaluacion_labprogra ii\prestamo.cpp
+	"Prestamo.h"
+	<iostream>
+
+1710541932 d:\evaluacion_labprogra ii\prestamo.h
+	<string.h>
+	"Cliente.h"
+	"Pago.h"
+
+1711129094 source:d:\evaluacion_labprogra ii\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+	"Prestamo.h"
+
